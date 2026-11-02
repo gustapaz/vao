@@ -4,6 +4,8 @@
 
 [Jogar gratuitamente](https://gustapaz.github.io/vao/)
 
+![Vão publicado, tabuleiro e controles](docs/public-gameplay.png)
+
 Um puzzle de planejamento espacial: leve o vagão amarelo à borda direita da terceira linha, reorganizando cargas que só se movem no próprio eixo. Dez configurações próprias com solução mínima verificada, de 4 a 15 manobras. Visual de planta industrial em cobalto, retículas e materiais translúcidos, feito inteiramente em CSS/DOM.
 
 ## Jogar

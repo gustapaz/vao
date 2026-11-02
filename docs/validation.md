@@ -13,7 +13,17 @@
 
 `npm audit` sem vulnerabilidades informadas em 02/11/2026. Typecheck e build aprovados. Export contém apenas HTML, favicon, licença e chunks JS/CSS/worker; sem source maps, testes, fontes do projeto, ambientes ou configuração local. CSP limita recursos à própria origem; nenhuma API de consumo, conta, backend, cartão, faturamento ou trial.
 
-GitHub Pages público disponível no GitHub Free, conforme https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages. Autoria, histórico remoto, scanner e jogabilidade pública serão conferidos antes da entrega final.
+GitHub Pages público disponível no GitHub Free, conforme https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages. Nenhum cartão, faturamento ou trial ativado.
+
+## Demo pública — 02/11/2026
+
+- Implementação `09bf3f139b005f1e6df93ee6a15c9b47c0f1f95f`; workflow `41530566794` aprovou testes, auditoria, build e deploy.
+- Campanha inteira concluída na URL pública, sem injetar estado ou editar save: 4/5/6/7/8/9/10/13/14/15 manobras, 91 ao todo. Primeiro pátio com dica e transições normais; restantes sem dica, usando Menos movimento. Dica foi calculada pelo worker publicado. Estratégias derivadas do modelo, executadas por botões normais; não alegar solução humana ou prova de diversão.
+- Replay, manual reabrível, P/Escape, input bloqueado por obstáculo e histórico de dez pátios após reload conferidos. Preferência de movimento persistiu e som foi ligado/desligado por gesto; tentativa atual reiniciou como documentado. Evidências `public-first.png`, `public-campaign.png`, `public-gameplay.png`.
+- Seis arquivos públicos idênticos byte a byte ao export local, incluindo worker e licenças; cerca de 54,8 kB no total. Bundle principal ~12 kB gzip. Sem medição de FPS ou benchmark físico.
+- Gitleaks 8.30.1 com configuração externa confiável, sem achados no staged, histórico completo, export e clone remoto novo. Sem supressões locais. Secret scanning, push protection e alertas/atualizações de dependências gratuitos habilitados.
+- API do GitHub confirmou somente `gustapaz` como contribuidor; autor e committer `Gustavo Paz <96732649+gustapaz@users.noreply.github.com>`, sem coautoria adicional. Screenshots contêm somente o jogo e dados de teste.
+- Console contém mensagens da extensão do navegador e aviso de desenvolvimento apenas no servidor dev; não foram identificados erros do código do jogo durante a campanha pública.
 
 ## Limites
 
